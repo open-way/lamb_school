@@ -1,0 +1,1 @@
+enum DialogActions { SUBMIT, CANCEL }
